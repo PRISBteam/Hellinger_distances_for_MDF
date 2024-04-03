@@ -1,4 +1,5 @@
-# Hellinger_distances_for_MDF
+# Calculation of Hellinger distances amd Mesostructure intensity based on the EBSD data for grain orientation function
+
 This jupyter (.ipynb) notebook is written as a tool for automatic detection and quantification of mesostructure (including shear bands) based on the measurement of the Hellinger distances between random and actual misorientation distribution function (MDF) experimentally obtained by EBSD or X-ray microscopy. 
 
 All the theoretical details can be found in the publication Oleg Bushuev, Elijah Borodin, Anna Morozova, Andrey Belyakov, Siying Zhu, Andrey P. Jivkov “Detection of mesostructure in severely deformed copper alloys” (2024).
